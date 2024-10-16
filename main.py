@@ -24,6 +24,13 @@ for i in d:
 def print_hello():
     print("Hello")
 
+def func(a, b):
+    return a * b
+
+def func2(a, b):
+    return a + b
+
+print_hello()
 
 
 
