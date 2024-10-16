@@ -22,7 +22,7 @@ for i in d:
     print(d[i])
 
 def print_hello():
-    pass
+    print("Hello")
 
 
 
