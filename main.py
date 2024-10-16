@@ -13,5 +13,13 @@ for i in range(len(array)):
     print(array[i])
 
 
+d = {"a": 1, "b": 2, "c": 3}
+
+for i in d:
+    print(d[i])
+
+
+
+
 
 
